@@ -4,15 +4,8 @@
         <description><![CDATA[StuffILike]]></description>
         <link>https://thegrid.ai/stuffilike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:01:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuffilike/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Every V12 Powered Car You Can Buy Today]]></title>
-            <description><![CDATA[<article><h1>Every V12 Powered Car You Can Buy Today</h1><p>Because 12 cylinders are just the best.​</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2d846799762d9e8d25792c3137b58324292a97b.jpg"></article>]]></description>
-            <link>http://www.popularmechanics.com/cars/g2578/v12-powered-cars/</link>
-            <guid isPermaLink="false">d67f8162-6418-42b5-ab92-bb0f5329c865</guid>
-            <pubDate>Mon, 18 Apr 2016 17:59:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://pop.h-cdn.co/assets/16/15/980x658/1460905250-1457039734-dw-burnett-puppyknuckles-astondb11-1.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="http://pop.h-cdn.co/assets/16/15/980x490/1460905282-1455124039-merc.jpg">]]></description>
             <link>https://thegrid.ai/stuffilike/c1891dcd-9c4d-4af8-885b-e2504cb145c7/index.html</link>
             <guid isPermaLink="false">c1891dcd-9c4d-4af8-885b-e2504cb145c7</guid>
+            <pubDate>Mon, 18 Apr 2016 17:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://coolmaterial.wpengine.netdna-cdn.com/wp-content/uploads/2012/05/1966-Shelby-Cobra-427.jpg">]]></description>
+            <link>https://thegrid.ai/stuffilike/d65c4738-dc9e-46dc-beb7-c8606e6badda/index.html</link>
+            <guid isPermaLink="false">d65c4738-dc9e-46dc-beb7-c8606e6badda</guid>
             <pubDate>Mon, 18 Apr 2016 17:59:20 GMT</pubDate>
         </item>
     </channel>
