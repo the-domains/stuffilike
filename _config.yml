@@ -1,0 +1,28 @@
+name: StuffILike
+favicon: null
+layout_spectrum: 0.3073512634728104
+typography_spectrum: 0.6391059516463429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.04170819604769349
+  lightness: 0.06777424341998994
+  saturation: 0.8014862413983792
+  rhythmicContrast: 0.7599151453468949
+purpose: []
