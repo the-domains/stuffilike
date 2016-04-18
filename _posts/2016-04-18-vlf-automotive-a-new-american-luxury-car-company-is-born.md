@@ -20,10 +20,10 @@ keywords:
 description: "Take Henrik Fisker's beautifully proportioned design, integrate it with a Corvette ZR 1 V8 high output engine, and it'll result in a bespoke four-door luxury car with outstanding performance. The Destino V8 embodies everything that VLF Automotive stands for: American tailor made, high quality, performance 4-door GT."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.vlfautomotive.com/'
+isBasedOnUrl: 'http://www.vlfautomotive.com/#eltd-home-luxury'
 title: VLF Automotive - A new American Luxury Car Company is Born.
-datePublished: '2016-04-18T17:59:22.190Z'
-dateModified: '2016-04-18T17:25:09.770Z'
+datePublished: '2016-04-18T17:59:22.655Z'
+dateModified: '2016-04-18T17:24:28.802Z'
 sourcePath: _posts/2016-04-18-vlf-automotive-a-new-american-luxury-car-company-is-born.md
 published: true
 inFeed: true
