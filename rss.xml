@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[StuffILike]]></title>
         <description><![CDATA[StuffILike]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stuffilike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 17:59:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 17:59:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stuffilike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://13252-presscdn-0-94.pagely.netdna-cdn.com/wp-content/uploads/2008/09/1975_Jensen_Healey_Roadster_Front_3_1.jpg">]]></description>
+            <link>https://thegrid.ai/stuffilike/02687c7d-4e7f-4d87-9c68-65d871408408/index.html</link>
+            <guid isPermaLink="false">02687c7d-4e7f-4d87-9c68-65d871408408</guid>
+            <pubDate>Mon, 18 Apr 2016 17:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.carandclassic.co.uk/uploads/cars/jensen/6423664.jpg">]]></description>
-            <link>undefined0e1dff22-dfe1-4786-a835-c6ece46c37bc/index.html</link>
+            <link>https://thegrid.ai/stuffilike/0e1dff22-dfe1-4786-a835-c6ece46c37bc/index.html</link>
             <guid isPermaLink="false">0e1dff22-dfe1-4786-a835-c6ece46c37bc</guid>
             <pubDate>Mon, 18 Apr 2016 17:59:18 GMT</pubDate>
         </item>
