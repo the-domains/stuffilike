@@ -4,8 +4,15 @@
         <description><![CDATA[StuffILike]]></description>
         <link>https://thegrid.ai/stuffilike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:01:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuffilike/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Circuit of The Americas]]></title>
+            <description><![CDATA[<article><h1>Circuit of The Americas</h1><p>Circuit of The Americas in Austin, TX is home to Formula 1, MotoGP, X Games, Austin360 Amphitheater, RedFest, and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1953cebb6edb23a4b751f1dc40d5521206744e02.jpg"></article>]]></description>
+            <link>http://www.circuitoftheamericas.com/</link>
+            <guid isPermaLink="false">abab6817-376d-4fa7-8d48-b22214b5e544</guid>
+            <pubDate>Mon, 18 Apr 2016 17:59:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://ea80e97cace747c2c244-5483548c70a81fe49af7816b21fff1c8.r64.cf1.rackcdn.com/inquery-pages/Track-Beauty-pic-11.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>The Mercedes AA-Class Is a Fantastic (Fake) Electric Car That Runs on AA Batteries</h1><p>Most electric cars are powered by the same sort of lithium-ion batteries you find in your laptop and phone, but what if they were powered by something a bit more universal? Something you've already got in countless devices around your house. Something like a good old Duracell AA battery, or perhaps, 9648 of them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2937d584f8d56fe9fde3be5359d658bb4836c869.png"></article>]]></description>
             <link>http://www.popularmechanics.com/cars/hybrid-electric/a20436/snl-julia-louis-dreyfus-mercedes-commerical/</link>
             <guid isPermaLink="false">be646edf-db9c-4e54-8c82-c38c2ed0588f</guid>
-            <pubDate>Mon, 18 Apr 2016 17:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every V12 Powered Car You Can Buy Today]]></title>
-            <description><![CDATA[<article><h1>Every V12 Powered Car You Can Buy Today</h1><p>Because 12 cylinders are just the best.​</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2d846799762d9e8d25792c3137b58324292a97b.jpg"></article>]]></description>
-            <link>http://www.popularmechanics.com/cars/g2578/v12-powered-cars/</link>
-            <guid isPermaLink="false">d67f8162-6418-42b5-ab92-bb0f5329c865</guid>
             <pubDate>Mon, 18 Apr 2016 17:59:21 GMT</pubDate>
         </item>
     </channel>
