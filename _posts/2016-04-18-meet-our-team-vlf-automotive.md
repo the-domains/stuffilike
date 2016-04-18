@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.vlfautomotive.com/luxury/meet-our-team/'
 title: Meet Our Team - VLF Automotive
-datePublished: '2016-04-18T18:01:25.877Z'
-dateModified: '2016-04-18T17:26:50.899Z'
+datePublished: '2016-04-18T18:01:26.041Z'
+dateModified: '2016-04-18T17:26:56.180Z'
 sourcePath: _posts/2016-04-18-meet-our-team-vlf-automotive.md
 published: true
 inFeed: true
