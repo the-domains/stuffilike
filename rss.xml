@@ -4,22 +4,8 @@
         <description><![CDATA[StuffILike]]></description>
         <link>https://thegrid.ai/stuffilike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 18:03:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuffilike/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.vlfautomotive.com/wp-content/uploads/2016/01/Force-1-Front-34-1024x683.jpg">]]></description>
-            <link>https://thegrid.ai/stuffilike/4cdbcacb-9a8f-41b3-abe4-36682228f8cf/index.html</link>
-            <guid isPermaLink="false">4cdbcacb-9a8f-41b3-abe4-36682228f8cf</guid>
-            <pubDate>Mon, 18 Apr 2016 18:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Our Team - VLF Automotive]]></title>
-            <description><![CDATA[<article><h1>Meet Our Team - VLF Automotive</h1><p>On May 1, 2010, Robert A. Lutz, retired as vice chairman, of General Motors, following a 47-year career in the global automotive industry, including senior leadership positions at four of the world's leading automakers and founded Lutz Communications, a universal business consulting firm with an emphasis on businesses in motion.</p></article>]]></description>
-            <link>http://www.vlfautomotive.com/luxury/meet-our-team/</link>
-            <guid isPermaLink="false">45cde166-c9bb-4535-a389-70f50d99518c</guid>
-            <pubDate>Mon, 18 Apr 2016 18:01:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Meet Our Team - VLF Automotive]]></title>
             <description><![CDATA[<article><h1>Meet Our Team - VLF Automotive</h1><p>On May 1, 2010, Robert A. Lutz, retired as vice chairman, of General Motors, following a 47-year career in the global automotive industry, including senior leadership positions at four of the world's leading automakers and founded Lutz Communications, a universal business consulting firm with an emphasis on businesses in motion.</p></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://thegrid.ai/stuffilike/afe29a47-6732-46fa-9f1e-d5992532a9d5/index.html</link>
             <guid isPermaLink="false">afe29a47-6732-46fa-9f1e-d5992532a9d5</guid>
             <pubDate>Mon, 18 Apr 2016 17:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYp2LTXsxuzQJQsPrY6qfWhOxbKIdARmPx4FhB92kUQq41aAzX">]]></description>
+            <link>https://thegrid.ai/stuffilike/26320f79-4f9b-4f5c-a5bb-fea5bf35961a/index.html</link>
+            <guid isPermaLink="false">26320f79-4f9b-4f5c-a5bb-fea5bf35961a</guid>
+            <pubDate>Mon, 18 Apr 2016 17:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henrik Fisker Official Home Page]]></title>
+            <description><![CDATA[<article><h1>Henrik Fisker Official Home Page</h1><p>Henrik Fisker is an entrepreneur, creator, innovator, mentor, brand ambassador and a leading automotive designer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d679960373d0b89cfa884dc0ed384e94fd93ace.png"></article>]]></description>
+            <link>http://henrikfisker.org/</link>
+            <guid isPermaLink="false">52ee8234-9e81-400f-846b-ff92b0bfc70a</guid>
+            <pubDate>Mon, 18 Apr 2016 17:59:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
